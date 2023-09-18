@@ -1,8 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboba1001&label=Profile%20views&color=0e75b6&style=flat" alt="Aboba1001" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboba1001" alt="aboba100" /></a> </p>
 
-- 🌱 I’m currently learning **Haxe, Lua**
+- 🌱 I’m currently learning **HaxeFlixel and Lua**
+- i do **FNF** stuff.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
