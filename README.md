@@ -1,10 +1,6 @@
 - 🌱 I’m currently learning **HaxeFlixel and Lua**
 - i do **FNF** stuff.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboba1001&show_icons=true&locale=en&layout=compact" alt="aboba1001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboba1001&show_icons=true&locale=en" alt="aboba1001" /></p>
