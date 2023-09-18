@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboba1001" alt="aboba100" /></a> </p>
-
 - 🌱 I’m currently learning **HaxeFlixel and Lua**
 - i do **FNF** stuff.
 
