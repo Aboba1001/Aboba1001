@@ -1,5 +1,4 @@
 - 🌱 I’m currently learning **HaxeFlixel and Lua**
-- i do **FNF** stuff.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboba1001&show_icons=true&locale=en&layout=compact" alt="aboba1001" /></p>
 
