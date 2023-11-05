@@ -1,4 +1,4 @@
-## My Trophys
+## My Trophies
 ![](https://github-trophies.vercel.app/?username=Aboba1001)
 
 ## My Status
