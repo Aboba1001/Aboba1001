@@ -1,5 +1,5 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboba1001&show_icons=true&locale=en" alt="aboba1001" /></p>
+![Aboba1001's Stats](https://github-readme-stats.vercel.app/api?username=Aboba1001&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboba1001&" alt="aboba1001" /></p>
+![Aboba1001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aboba1001&theme=shades-of-purple&hide_border=false)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboba1001&show_icons=true&locale=en&layout=compact" alt="aboba1001" /></p>
+![Aboba1001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboba1001&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
