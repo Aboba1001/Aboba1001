@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=Aboba1001&style=for-the-badge) 
+ [![Twitter 
+ [![GitHub followers](https://img.shields.io/github/followers/pythondeveloper6?label=Github%20Followers&style=for-the-badge)](https://github.com/Pythondeveloper6) 
+ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZtMEPGln_sbgd9_ioDDC9g?label=Youtube&style=for-the-badge)](https://www.youtube.com/c/RoboaToba)
+
 ## My Trophies
 ![](https://github-trophies.vercel.app/?username=Aboba1001)
 
