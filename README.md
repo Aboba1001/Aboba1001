@@ -1,10 +1,10 @@
-## 🤖 • OS
+## 🤖 • OS • 🤖
 [![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) 
  
-## 🏆 • My Trophies
+## 🏆 • My Trophies • 🏆
 ![](https://github-trophies.vercel.app/?username=Aboba1001)
 
-## 📊 • My Status
+## 📊 • My Status • 📊
 ![](https://komarev.com/ghpvc/?username=Aboba1001&style=for-the-badge) 
  [![GitHub followers](https://img.shields.io/github/followers/Aboba1001?label=Github%20Followers&style=for-the-badge)](https://github.com/Aboba1001)
 
